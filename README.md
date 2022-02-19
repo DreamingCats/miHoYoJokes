@@ -32,6 +32,8 @@
 
 原神B站官方账号：
 
+鸡舍：
+
 ## 收集来源
 
 # 二.原批圣经
@@ -84,20 +86,15 @@
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/感觉画质不如原神.jpg)
 
-### 5.米桑冰清玉洁
+### 5.冰清玉洁
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/原批眼中的鸡场.jpg)
 
-
-
-
-懂不懂原神文化输出的含金量啊
-
-### 8.傲慢与偏见
+### 6.傲慢与偏见
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/傲慢与偏见.png)
 
-### 9.心寒米哈游一游
+### 7.心寒米哈游一游
 
 本人作为原神氪金30多万的玩家，特别热爱原神这个游戏，想加入游戏组，做啥都行，无奈之前没有游戏行业从业经验，通过官方渠道投简历hr连鸟都不鸟你。  
 今日特地跑去米哈游大楼，想问问能否有面试机会，结果hr连见个面都不见，还叫了-堆保安来前台赶人，真是心都寒了。关于这点我问问各位水友的看法:  
@@ -107,13 +104,21 @@
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/心寒米哈游一游.jpg)
 
-### 10.创作激励
+### 8.创作激励
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/创作激励.jpg)
 
-### 11.孤勇者
+### 9.孤勇者
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/孤勇者.jpg)
+
+### 10.不平等交易
+
+![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/不平等交易.jpg)
+
+### 11.导火索
+
+![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/导火索.jpg)
 
 ### 12.斩尽猴杂
 
@@ -144,6 +149,8 @@
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/米氏不等式1.jpg)
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/米氏不等式2.jpg)
+
+![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/以少胜多的战役.jpg)
 
 ### 18.退役兵王
 
@@ -207,9 +214,51 @@
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/美国伦敦.jpg)
 
+### 28.Staem促销
+
+![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/Staem促销.jpg)
+
+### 29.新时代艺术品
+
+![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/新时代艺术品.jpg)
+
+### 30.此円批非彼原批
+
+![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/此円批非彼原批.jpg)
+
+### 31.救星
+
+![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/救星.jpg)
+
+### 32.为爱买单
+
+![自愿充值](https://github.com/DreamingCats/GenshitJokes/raw/main/images/自愿充值.jpg)
+
+### 33.七千生活费
+
+![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/七千生活费.jpg)
+
+<a href="https://www.zhihu.com/question/427305451/answer/1580649667" target="_blank">问题地址</a>
+
+### 34.卡普空荒野之息
+
+![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/卡普空荒野之息.jpg)
+
+### 35.不是小作坊
+
+![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/不是小作坊.jpg)
+
+### 36.
 
 
-### 7.文殊菩萨/文化中出
+
+
+### .文殊菩萨/文化中出
+
+懂不懂原神文化输出的含金量啊
+
+
+
 
 
 # 三。爆杀原批
@@ -264,3 +313,14 @@
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/原神三大悖论.jpg)
 
+### 10.家有原批
+
+![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/家有原批.jpg)
+
+### 11.找到好女孩
+
+![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/找到好女孩.jpg)
+
+### 12.傻子装聪明
+
+![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/傻子装聪明.jpg)
