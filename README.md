@@ -1,8 +1,8 @@
-# GenshitJokes
+# 原批笑话 Genshit Jokes
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/禁止原批.jpg)
 
-# 一.简介 
+# 一.简介 A brief introduction
 
 原批笑话和鸡3笑话收集，采用Markdown语法编写，排名不分先后，不定期更新
 
@@ -14,19 +14,18 @@
  
 有些图片画质不如原神，也很难保证不是反串，或者PS/F12，看个乐呵就行
 
-在收集时，尽量避免了键政和重口内容，以防404
 
 最后，搞这个合集的目的之一也是想告诉大家：<font color="red">互联网有历史。</font>
 
 
 
-## 什么是原批？
+## 什么是原批？  Who is a genshit?
 
 <a href="https://jikipedia.com/definition/baidu_qa/458907976" target="_blank">原批-小鸡词典</a>
 
 国外一般将这类行为叫做Genshit。
 
-## 在哪里可以看到原批？
+## 在哪里可以看到原批？ Where can find genshits?
 
 几乎在互联网的任何地方。
 
@@ -34,11 +33,13 @@
 
 鸡舍：
 
-## 收集来源
+## 收集来源  Source
 
-# 二.原批圣经
+B站 <a href=   https://space.bilibili.com/3196602>
 
-### 1.原批圣经合集
+# 二.原批圣经  Genshit Bible
+
+### 1.原批圣经合集 Genshit jokes bound edition
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/米国维基百科.jpg)
 
@@ -69,7 +70,7 @@
 原神是文化输出最成功的游戏，可惜有很多人宁愿当猴也不愿意承认#(捂脸)
 看评论我一脸懵逼[辣眼睛]，怎么感觉我好好玩个原神正常发个评论一不带节奏二不摸黑的让别人说我原友而不是op那么难呢？就因为我玩原神吗？[疑惑]
 
-### 3.C语言大佬
+### 3.C语言大佬 C language dalao
 
 和当年Minecraft群里的JVAV大佬一样好玩
 
@@ -82,7 +83,7 @@
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/你永远想不到谁是乐子人.jpg)
 
 
-### 4.感觉不如原神。。。画质
+### 4.感觉不如原神。。。画质  less than Genshin ... image quality
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/感觉画质不如原神.jpg)
 
@@ -90,7 +91,7 @@
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/原批眼中的鸡场.jpg)
 
-### 6.傲慢与偏见
+### 6.傲慢与偏见  Pride and Prejudice
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/傲慢与偏见.png)
 
@@ -104,15 +105,17 @@
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/心寒米哈游一游.jpg)
 
-### 8.创作激励
+### 8.创作激励  Creation inspirement
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/创作激励.jpg)
 
-### 9.孤勇者
+### 9.孤勇者  Lonely Warrior
 
-![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/孤勇者.jpg)
+![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/孤勇者1.jpg)
 
-### 10.不平等交易
+![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/孤勇者1.jpg)
+
+### 10.不平等交易 Unequal exchange
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/不平等交易.jpg)
 
@@ -124,7 +127,7 @@
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/斩尽猴杂.jpg)
 
-### 13.盗梦空间
+### 13.盗梦空间  Inception
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/盗梦空间.jpg)
 
@@ -142,7 +145,7 @@
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/米国大法官.jpg)
 
-### 17.米氏不等式
+### 17.米氏不等式 Mihoyo's Inequality
 
 指米哈游捐款500万大于腾讯捐款一个亿（单位：人民币）
 
@@ -158,7 +161,7 @@
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/退役兵王.jpg)
 
-### 19.原神的英文是？
+### 19.原神的英文是？ What's English name of "YuanShen"?
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/原神的英文是？.png)
 
@@ -178,7 +181,7 @@
 
 该原批个人空间：<a href="https://space.bilibili.com/389612306/dynamic" target="_blank">沉香王子</a>
 
-### 21.米氏法典
+### 21.米氏法典  Mihoyo's Law
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/米氏法典1.jpg)
 
@@ -188,7 +191,7 @@
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/米氏法典4.jpg)
 
-### 22.认鸡作母
+### 22.认鸡作母 Take prostitute as mother
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/认鸡作母1.jpg)
 
@@ -202,19 +205,19 @@
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/三巨头的失利.jpg)
 
-### 25.起死回生
+### 25.起死回生 Bring dead people to life
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/起死回生.jpg)
 
-### 26.带孝子
+### 26.带孝子  
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/亲妈献祭.jpg)
 
-### 27.美国伦敦
+### 27.美国伦敦 London of America
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/美国伦敦.jpg)
 
-### 28.Staem促销
+### 28.Staem促销 Sales of Steam
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/Staem促销.jpg)
 
@@ -222,7 +225,7 @@
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/新时代艺术品.jpg)
 
-### 30.此円批非彼原批
+### 30.此円批非彼原批  Madoka is not YuanShen
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/此円批非彼原批.jpg)
 
@@ -230,55 +233,80 @@
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/救星.jpg)
 
-### 32.为爱买单
+### 32.为爱买单  Pay for love
 
 ![自愿充值](https://github.com/DreamingCats/GenshitJokes/raw/main/images/自愿充值.jpg)
 
-### 33.七千生活费
+### 33.七千生活费 -¥7000
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/七千生活费.jpg)
 
 <a href="https://www.zhihu.com/question/427305451/answer/1580649667" target="_blank">问题地址</a>
 
-### 34.卡普空荒野之息
+### 34.卡普空荒野之息 Zelda of CAPCOM
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/卡普空荒野之息.jpg)
 
-### 35.不是小作坊
+### 35.不是小作坊 Not a small workshop
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/不是小作坊.jpg)
 
-### 36.不适合这位氪佬
+### 36.不适合这位氪佬 Don't suit this rich man
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/不适合这位氪佬.jpg)
 
-### 37.饭圈化
+### 37.饭圈化  Fandomize
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/饭圈化.png)
 
-### 38.有北斗了
+### 38.有北斗了  I have Beidou
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/有北斗了.jpg)
 
-### 39.GTA奖
+### 39.GTA奖  GTA Award
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/GTA奖.jpg)
 
 
-### 40.囤积居奇
+### 40.囤积居奇  Hoarding and cornering
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/囤积居奇.jpg)
 
 去鸡舍搜了一下，这帖子没了
 
-### 41.
+### 41.里程碑  Milepost
 
+![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/里程碑.jpg)
 
+### 42.四大悲剧  Four tragedies
 
+![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/四大悲剧.jpg)
 
-### x.文殊菩萨/文化中出
+### 43.进击的良币 Attack on good money
 
-懂不懂原神文化输出的含金量啊
+![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/进击的良币.jpg)
+
+### 44.新闻跨度大
+
+![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/新闻跨度大.jpg)
+
+### 45.资本论  Das Kapital
+
+![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/资本论1.jpg)
+
+### 46.忍冬纹  Honeysuckle pattern
+
+纹输菩萨！纹化输出！
+
+![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/忍冬纹1.jpg)
+
+![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/忍冬纹2.jpg)
+
+![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/忍冬纹与生理结构.png)
+
+### 47.塞尔达的认可  Zelda's approvement
+
+![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/塞尔达的认可.jpg)
 
 
 
@@ -286,18 +314,33 @@
 
 # 三.爆杀原批
 
-### 1.原批定律
+### 1.原批定律  Genshit Rules
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/原批定律.jpg)
 
+![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/原批第一定律荧妹与派蒙版.jpg)
+
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/原批十五定律.jpg)
+
+原批十大定律
+第一定律：又称看满离定律，具体内容为：逆天言论→打开动态→原神抽奖→满意离开；  
+第二定律：俗称痰反定律，具体内容为无论什么梗只要被℗用过就变成了原神梗，比如刮痧，任何嘲讽原神或者攻击原神玩家的梗，都会被拿来用以攻击其他游戏玩家（例如猴）；  
+第三定律：俗称⛵定律，只要有用户在各大社交平台如bilibili等上发表逆天言论或者对米哈游系列游戏有不良影响时，℗就会认为都是友商请来的水军，或是游玩友商产品的玩家；  
+第四定律:也叫op不等式，凡是米家公司做的慈善，无论金额、慈善物品价值大小，均大于其他企业的慈善金额和物品价值的总和。并且，其社会意义以及对于被帮助人的帮助大于其他企业的捐献金额和物品的社会意义。  
+第五定律:也叫某某输出定律，凡是在原神这款游戏中出现过的设计元素，均可被视为对于外国的文化输出行为，国内元素就是输出中国文化，国外元素就是对他国的文化进行中国化诠释，有利于文化入侵；  
+第六定律：又称op判别式,当环境含原量较低时，原的发言视为双厨狂喜。当含原量较高时，非原发言视为mzr引战  
+第七定律：相似原理，原神玩家说你像原神，那就是像原神，只有塞尔达不像  
+第八定律：又称可莉定律，十个可莉头像九个逆天  
+第九定律：认知障碍定律，op认为自己不是op，永不自知定律，并yy出你不玩原神你就不是op了？这个观点以达到卖惨效果和自己被骂op时被冤枉了把自己从op中切割  
+第十定律: 岁月史书定律 ，op会把在原神前出来的东西，以一种相当离谱的方式变成属于自己的东西，变成万物起源，历史主宰。例如：想把胡桃吧修改成胡桃吧。  
+
 
 其中，原批第一定律最为出名。
 
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/外网原批第一定律.jpg)
 
-### 2.兔女郎烧鸡
+### 2.兔女郎烧鸡  Bunny girl
 
 这张动图太经典了，懂不懂五万年烧鸡的含金量啊
 
@@ -318,32 +361,32 @@
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/孤勇者原批版3.jpg)
 
-### 5.原批是这样的
+### 5.原批是这样的  Genshit is ...
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/原批是这样的.jpg)
 
 
-### 6.让原批告诉你
+### 6.让原批告诉你  Let genshit tell you
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/让原批告诉你.jpg)
 
-### 7.原批鉴别法
+### 7.原批鉴别法  How to define genshits
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/原批鉴别法.jpg)
 
-### 8.原批就像螃蟹
+### 8.原批就像螃蟹  Genshit is like a cancer
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/原批就像螃蟹.jpg)
 
-### 9.原神三大悖论
+### 9.原神三大悖论 Three Paradoxes of Genshin Impact
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/原神三大悖论.jpg)
 
-### 10.家有原批
+### 10.家有原批  Genshit at home
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/家有原批.jpg)
 
-### 11.找到好女孩
+### 11.找到好女孩  Find a good girl
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/找到好女孩.jpg)
 
@@ -351,17 +394,22 @@
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/傻子装聪明.jpg)
 
-### 13.选出电子烧鸡
+### 13.选出电子烧鸡  Select electronic "roast chicken"
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/选出电子烧鸡.jpg)
 
-### 14.扔掉派蒙
+### 14.扔掉派蒙  Throw away Paimon
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/扔掉派蒙.jpg)
 
-### 15.企鹅大哥别生气
+### 15.企鹅大哥别生气  Don't be mad,Tencent
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/企鹅大哥别生气.jpg)
+
+### 16.原批捡到一块钱  When genshits pick up 1 yuan
+
+![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/原批捡到一块钱.jpg)
+
 
 # 四.后记
 
