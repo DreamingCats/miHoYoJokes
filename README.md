@@ -4,7 +4,7 @@
 
 # 一.简介 
 
-原批笑话和鸡3笑话收集，采用Markdown语法编写，排名不分先后
+原批笑话和鸡3笑话收集，采用Markdown语法编写，排名不分先后，不定期更新
 
 欢迎星星和叉子
 
@@ -248,12 +248,35 @@
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/不是小作坊.jpg)
 
-### 36.
+### 36.不适合这位氪佬
+
+![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/不适合这位氪佬.jpg)
+
+### 37.饭圈化
+
+![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/饭圈化.png)
+
+### 38.有北斗了
+
+![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/有北斗了.jpg)
+
+### 39.GTA奖
+
+![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/GTA奖.jpg)
+
+
+### 40.囤积居奇
+
+![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/囤积居奇.jpg)
+
+去鸡舍搜了一下，这帖子没了
+
+### 41.
 
 
 
 
-### .文殊菩萨/文化中出
+### x.文殊菩萨/文化中出
 
 懂不懂原神文化输出的含金量啊
 
@@ -261,7 +284,7 @@
 
 
 
-# 三。爆杀原批
+# 三.爆杀原批
 
 ### 1.原批定律
 
@@ -279,6 +302,9 @@
 这张动图太经典了，懂不懂五万年烧鸡的含金量啊
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/兔女郎烧鸡.gif)
+
+![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/五万年的烧鸡.jpg)
+
 
 ### 3.哆啦A梦：原批！
 
@@ -324,3 +350,35 @@
 ### 12.傻子装聪明
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/傻子装聪明.jpg)
+
+### 13.选出电子烧鸡
+
+![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/选出电子烧鸡.jpg)
+
+### 14.扔掉派蒙
+
+![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/扔掉派蒙.jpg)
+
+### 15.企鹅大哥别生气
+
+![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/企鹅大哥别生气.jpg)
+
+# 四.后记
+
+正确的，直接的，中肯的，完整的，
+立体的，客观的，合理的，明晰的，
+真实的，辩证的，深刻的，通达的，
+优美的，巧妙的，精辟的，雅致的，
+机智的，全面的，
+形而上学的，脚踏实地的，实事求是的，经世致用的，雅俗共赏的，
+明白晓畅的，针砭时弊的，不偏不倚的，恰如其分的，滴水不漏的，
+不容质疑的，切中要害的，一针见血的，淋漓尽致的，深谙事理的，
+真知灼见的，振聋发聩的，微言大义的，金声玉振的，
+透过现象看本质的，知其然而知其所以然的，可供世人仿效的，千古颠扑不破的
+
+重要的、紧迫的、自觉的、主动的、坚定的、
+全局的、前瞻的、积极的、创造的、长期的、
+复杂的、艰巨的、敏锐的、有效的、法制的、
+规范的、持续的、集约的、正常的、有序的、
+智能的、优质的、科学的、年轻的、专业的、
+信息的、数字的、标准的、精细的
