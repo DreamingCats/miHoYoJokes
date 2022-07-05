@@ -1,4 +1,4 @@
-米线！
+<font size=4>米线！</font>
 
 # 原批笑话 Genshit Jokes/原氏物语 The Tale of Genshit
 
@@ -43,7 +43,7 @@ B站 <a href="https://space.bilibili.com/3196602" target="_blank">原神官号</
 
 ### 1.原批圣经合集 Genshit jokes bound edition
 
-![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/米国维基百科.jpg)
+
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/原批七大天王.jpg)
 
@@ -108,9 +108,7 @@ B站 <a href="https://space.bilibili.com/3196602" target="_blank">原神官号</
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/不平等交易.jpg)
 
-### 11.导火索
 
-![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/导火索.jpg)
 
 ### 12.斩尽猴杂
 
@@ -157,9 +155,6 @@ B站 <a href="https://space.bilibili.com/3196602" target="_blank">原神官号</
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/三巨头的失利.jpg)
 
-### 25.起死回生 Bring dead people to life
-
-![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/起死回生.jpg)
 
 ### 26.带孝子  
 
@@ -167,9 +162,6 @@ B站 <a href="https://space.bilibili.com/3196602" target="_blank">原神官号</
 
 
 
-### 28.Staem促销 Sales of Steam
-
-![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/Staem促销.jpg)
 
 ### 29.新时代艺术品 Artwork in new time
 
@@ -225,9 +217,6 @@ B站 <a href="https://space.bilibili.com/3196602" target="_blank">原神官号</
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/里程碑.jpg)
 
-### 42.四大悲剧  Four tragedies
-
-![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/四大悲剧.jpg)
 
 
 ### 44.新闻跨度大
@@ -236,9 +225,6 @@ B站 <a href="https://space.bilibili.com/3196602" target="_blank">原神官号</
 
 
 
-### 47.塞尔达的认可  Zelda's approvement
-
-![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/塞尔达的认可.jpg)
 
 
 
