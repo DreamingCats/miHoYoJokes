@@ -12,6 +12,8 @@
 
 收集于网络，欢迎转载，如有侵权可联系删除
 
+图片内容仅做收集，并不代表本人@DreamingCats的观点和立场。
+
 也收集了点鸡3笑话，反正都是鸡场
  
 有些图片画质不如原神，也很难保证不是反串，或者PS/F12，看个乐呵就行
@@ -31,13 +33,19 @@
 
 几乎在互联网的任何地方。
 
-原神B站官方账号：
+<a href="https://space.bilibili.com/3196602" target="_blank">B站原神官号</a>
 
-鸡舍：
+<a href="https://bbs.mihoyo.com/ys/" target="_blank">原神社区-米游社（鸡舍）</a>
+
+<a href="https://tieba.baidu.com/f?kw=%E5%8E%9F%E7%A5%9E&ie=utf-8&tab=main" target="_blank">百度原神吧</a>
+
+<a href="" target="_blank"></a>
 
 ## 收集来源  Source
 
-B站 <a href="https://space.bilibili.com/3196602" target="_blank">原神官号</a>
+<a href="https://tieba.baidu.com/f?ie=utf-8&kw=mihoyo&fr=search" target="_blank">百度mihoyo吧</a>
+
+<a href="" target="_blank"></a>
 
 # 二.原批圣经  Genshit Bible
 
@@ -107,17 +115,6 @@ B站 <a href="https://space.bilibili.com/3196602" target="_blank">原神官号</
 ### 10.不平等交易 Unequal exchange
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/不平等交易.jpg)
-
-
-
-### 12.斩尽猴杂
-
-![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/斩尽猴杂.jpg)
-
-### 13.盗梦空间  Inception
-
-![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/盗梦空间.jpg)
-
 
 
 ### 17.米氏不等式 Mihoyo's Inequality
