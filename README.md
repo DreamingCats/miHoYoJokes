@@ -49,13 +49,8 @@
 
 # 二.原批圣经  Genshit Bible
 
-### 1.原批圣经合集 Genshit jokes bound edition
 
 
-
-![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/原批七大天王.jpg)
-
-![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/米国杰出青年.jpg)
 
 ### 2.原批议论文
 
@@ -117,15 +112,6 @@
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/不平等交易.jpg)
 
 
-### 17.米氏不等式 Mihoyo's Inequality
-
-指米哈游捐款500万大于腾讯捐款一个亿（单位：人民币）
-
-![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/米氏不等式1.jpg)
-
-![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/米氏不等式2.jpg)
-
-![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/以少胜多的战役.jpg)
 
 
 
@@ -153,9 +139,7 @@
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/三巨头的失利.jpg)
 
 
-### 26.带孝子  
 
-![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/亲妈献祭.jpg)
 
 
 
@@ -198,10 +182,6 @@
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/饭圈化.png)
 
-
-### 39.GTA奖  GTA Award
-
-![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/GTA奖.jpg)
 
 
 ### 40.囤积居奇  Hoarding and cornering
