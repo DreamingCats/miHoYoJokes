@@ -51,15 +51,15 @@
 
 
 
-### 4.感觉不如原神。。。画质  less than Genshin ... image quality
+### 1.感觉不如原神。。。画质  less than Genshin ... image quality
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/感觉画质不如原神.jpg)
 
-### 5.冰清玉洁
+### 2.冰清玉洁
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/原批眼中的鸡场.jpg)
 
-### 6.傲慢与偏见  Pride and Prejudice
+### 3.傲慢与偏见  Pride and Prejudice
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/傲慢与偏见.png)
 
@@ -69,13 +69,13 @@
 
 
 
-### 9.孤勇者  Lonely Warrior
+### 4.孤勇者  Lonely Warrior
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/孤勇者1.jpg)
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/孤勇者1.jpg)
 
-### 10.不平等交易 Unequal exchange
+### 5.不平等交易 Unequal exchange
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/不平等交易.jpg)
 
@@ -83,7 +83,7 @@
 
 
 
-### 19.原神的英文是？ What's English name of "YuanShen"?
+### 6.原神的英文是？ What's English name of "YuanShen"?
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/原神的英文是？.png)
 
@@ -94,7 +94,7 @@
 
 
 
-### 22.认鸡作母 Take prostitute as mother
+### 7.认鸡作母 Take prostitute as mother
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/认鸡作母1.jpg)
 
@@ -102,69 +102,62 @@
 
 
 
-### 24.三巨头的失利  Loss of three giants
-
-![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/三巨头的失利.jpg)
 
 
 
 
 
-
-
-### 29.新时代艺术品 Artwork in new time
+### 8.新时代艺术品 Artwork in new time
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/新时代艺术品.jpg)
 
-### 30.此円批非彼原批  Madoka is not Genshit
+### 9.此円批非彼原批  Madoka is not Genshit
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/此円批非彼原批.jpg)
 
-### 31.救星
+### 10.救星
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/救星.jpg)
 
-### 32.为爱买单  Pay for love
+### 11.为爱买单  Pay for love
 
 ![自愿充值](https://github.com/DreamingCats/GenshitJokes/raw/main/images/自愿充值.jpg)
 
-### 33.七千生活费 -¥7000
+### 12.七千生活费 -¥7000
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/七千生活费.jpg)
 
 <a href="https://www.zhihu.com/question/427305451/answer/1580649667" target="_blank">问题地址</a>
 
-### 34.卡普空荒野之息 Zelda of CAPCOM
 
-![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/卡普空荒野之息.jpg)
 
-### 35.不是小作坊 Not a small workshop
+### 13.不是小作坊 Not a small workshop
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/不是小作坊.jpg)
 
-### 36.不适合这位氪佬 Don't suit this Kr man
+### 14.不适合这位氪佬 Don't suit this Kr man
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/不适合这位氪佬.jpg)
 
-### 37.饭圈化  Fandomize
+### 15.饭圈化  Fandomize
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/饭圈化.png)
 
 
 
-### 40.囤积居奇  Hoarding and cornering
+### 16.囤积居奇  Hoarding and cornering
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/囤积居奇.jpg)
 
 去鸡舍搜了一下，这帖子没了
 
-### 41.里程碑  Milepost
+### 17.里程碑  Milepost
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/里程碑.jpg)
 
 
 
-### 44.新闻跨度大
+### 18.新闻跨度大
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/新闻跨度大.jpg)
 
