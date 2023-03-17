@@ -4,6 +4,10 @@
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/禁止原批.jpg)
 
+
+[![Star History Chart](https://api.star-history.com/svg?repos=DreamingCats/GenshitJokes&type=Date)](https://star-history.com/#DreamingCats/GenshitJokes&Date)
+
+
 # 一.简介 A brief introduction
 
 原批笑话和鸡3笑话收集，采用Markdown语法编写，排名不分先后，不定期更新
@@ -14,8 +18,8 @@
 
 图片内容仅做收集，并不代表本人@DreamingCats的观点和立场。
 
-也收集了点鸡3笑话，反正都是鸡场
- 
+也收集了点鸡3笑话，反正都是鸡厂
+
 有些图片画质不如原神，也很难保证不是反串，或者PS/F12，看个乐呵就行
 
 
@@ -102,14 +106,6 @@
 
 
 
-
-
-
-
-
-### 8.新时代艺术品 Artwork in new time
-
-![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/新时代艺术品.jpg)
 
 ### 9.此円批非彼原批  Madoka is not Genshit
 
