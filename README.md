@@ -1,11 +1,13 @@
-<font size=4>米线！</font>
+[![Star History Chart](https://api.star-history.com/svg?repos=DreamingCats/GenshitJokes&type=Date)](https://star-history.com/#DreamingCats/GenshitJokes&Date)
+
+<font size=8>米线！</font>
 
 # 原批笑话 Genshit Jokes/原氏物语 The Tale of Genshit
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/禁止原批.jpg)
 
 
-[![Star History Chart](https://api.star-history.com/svg?repos=DreamingCats/GenshitJokes&type=Date)](https://star-history.com/#DreamingCats/GenshitJokes&Date)
+
 
 
 # 一.简介 A brief introduction
@@ -59,9 +61,7 @@
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/感觉画质不如原神.jpg)
 
-### 2.冰清玉洁
 
-![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/原批眼中的鸡场.jpg)
 
 ### 3.傲慢与偏见  Pride and Prejudice
 
@@ -153,7 +153,7 @@
 
 
 
-### 18.新闻跨度大
+### 18.新闻跨度大   Wide Span
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/新闻跨度大.jpg)
 
