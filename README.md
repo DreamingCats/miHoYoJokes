@@ -1,13 +1,35 @@
 [![Star History Chart](https://api.star-history.com/svg?repos=DreamingCats/GenshitJokes&type=Date)](https://star-history.com/#DreamingCats/GenshitJokes&Date)
 
-<font size=8>米线！</font>
+<font size=15>米线！</font>
 
 # 原批笑话 Genshit Jokes/原氏物语 The Tale of Genshit
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/禁止原批.jpg)
 
 
+# 零.索引   Index
 
+| 规范                                                       |
+| ---------------------------------------------------------- |
+| [恶意合订本](./恶意合订本/恶意合订本.md)                   |
+| [爆杀原批](./爆杀原批/爆杀原批.md)                         |
+| [3A之战](./3A之战/3A之战.md)                               |
+| [超能原批大搜索](./超能原批大搜索/超能原批大搜索.md)       |
+| [米孝子](./米孝子/米孝子.md)                               |
+| [阿Q后人](./阿Q后人/阿Q后人.md)                            |
+| [三相之力](./三相之力/三相之力.md)                         |
+| [原批法学](./原批法学/原批法学.md)                         |
+| [原批教育学](./原批教育学/原批教育学.md)                   |
+| [原批理工科学](./原批理工科学/原批理工科学.md)             |
+| [原批历史与文化学](./原批历史与文化学/原批历史与文化学.md) |
+| [原批伦理学](./原批伦理学/原批伦理学.md)                   |
+| [原批政治经济学](./原批政治经济学/原批政治经济学.md)       |
+| [原批神兔二相性](./原批神兔二相性/原批神兔二相性.md)       |
+| [原批眼科病例](./原批眼科病例/原批眼科病例.md)             |
+| [原神使我自豪](./原神使我自豪/原神使我自豪.md)             |
+|                                                            |
+|                                                            |
+|                                                            |
 
 
 # 一.简介 A brief introduction
@@ -20,12 +42,10 @@
 
 图片内容仅做收集，并不代表本人@DreamingCats的观点和立场。
 
-也收集了点鸡3笑话，反正都是鸡厂
-
 有些图片画质不如原神，也很难保证不是反串，或者PS/F12，看个乐呵就行
 
 
-最后，搞这个合集的目的之一也是想告诉大家：<font color="red">互联网有历史。</font>
+最后，搞这个合集的目的之一也是想告诉大家：<font color="red">互联网有历史</font>
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/一定是米哈游干的.gif)
 
@@ -51,10 +71,11 @@
 
 <a href="https://tieba.baidu.com/f?ie=utf-8&kw=mihoyo&fr=search" target="_blank">百度mihoyo吧</a>
 
-<a href="" target="_blank"></a>
+<a href="https://tieba.baidu.com/f?kw=%E5%8E%9F%E6%89%B9%E7%AC%91%E8%AF%9D&ie=utf-8" target="_blank">百度原批笑话吧</a>
+
+
 
 # 二.原批圣经  Genshit Bible
-
 
 
 ### 1.感觉不如原神。。。画质  less than Genshin ... image quality
@@ -63,23 +84,17 @@
 
 
 
-### 3.傲慢与偏见  Pride and Prejudice
+### 2.傲慢与偏见  Pride and Prejudice
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/傲慢与偏见.png)
 
-
+### 3.心寒米哈游一游   Resist
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/心寒米哈游一游.jpg)
 
 
 
-### 4.孤勇者  Lonely Warrior
-
-![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/孤勇者1.jpg)
-
-![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/孤勇者1.jpg)
-
-### 5.不平等交易 Unequal exchange
+### 4.不平等交易 Unequal exchange
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/不平等交易.jpg)
 
@@ -87,7 +102,7 @@
 
 
 
-### 6.原神的英文是？ What's English name of "YuanShen"?
+### 5.原神的英文是？ What's English name of "YuanShen"?
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/原神的英文是？.png)
 
@@ -98,7 +113,7 @@
 
 
 
-### 7.认鸡作母 Take prostitute as mother
+### 6.认鸡作母 Take prostitute as mother
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/认鸡作母1.jpg)
 
@@ -107,53 +122,44 @@
 
 
 
-### 9.此円批非彼原批  Madoka is not Genshit
+### 7.此円批非彼原批  Madoka is not Genshit
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/此円批非彼原批.jpg)
 
-### 10.救星
+### 8.救星
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/救星.jpg)
 
-### 11.为爱买单  Pay for love
-
-![自愿充值](https://github.com/DreamingCats/GenshitJokes/raw/main/images/自愿充值.jpg)
-
-### 12.七千生活费 -¥7000
-
-![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/七千生活费.jpg)
-
-<a href="https://www.zhihu.com/question/427305451/answer/1580649667" target="_blank">问题地址</a>
 
 
 
-### 13.不是小作坊 Not a small workshop
+### 9.不是小作坊 Not a small workshop
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/不是小作坊.jpg)
 
-### 14.不适合这位氪佬 Don't suit this Kr man
+### 10.不适合这位氪佬 Don't suit this Kr man
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/不适合这位氪佬.jpg)
 
-### 15.饭圈化  Fandomize
+### 11.饭圈化  Fandomize
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/饭圈化.png)
 
 
 
-### 16.囤积居奇  Hoarding and cornering
+### 12.囤积居奇  Hoarding and cornering
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/囤积居奇.jpg)
 
 去鸡舍搜了一下，这帖子没了
 
-### 17.里程碑  Milepost
+### 13.里程碑  Milepost
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/里程碑.jpg)
 
 
 
-### 18.新闻跨度大   Wide Span
+### 14.新闻跨度大   Wide Span
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/新闻跨度大.jpg)
 
