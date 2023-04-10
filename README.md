@@ -1,23 +1,22 @@
-[![Star History Chart](https://api.star-history.com/svg?repos=DreamingCats/GenshitJokes&type=Date)](https://star-history.com/#DreamingCats/GenshitJokes&Date)
-
-<font size=15>米线！</font>
-
 # 原批笑话 Genshit Jokes/原氏物语 The Tale of Genshit
 
-![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/禁止原批.jpg)
+[Q&A](./QA/QA.md) 
 
+<img src="https://github.com/DreamingCats/GenshitJokes/raw/main/images/禁止原批.jpg" width="50%" height="50%"> 
 
 # 零.索引   Index
 
-| 规范                                                       |
+| 索引                                                       |
 | ---------------------------------------------------------- |
 | [恶意合订本](./恶意合订本/恶意合订本.md)                   |
 | [爆杀原批](./爆杀原批/爆杀原批.md)                         |
+| [引原丁真](./引原丁真/引原丁真.md)                   |
+| [原批作文选](./原批作文选.md)                   |
 | [3A之战](./3A之战/3A之战.md)                               |
 | [超能原批大搜索](./超能原批大搜索/超能原批大搜索.md)       |
-| [米孝子](./米孝子/米孝子.md)                               |
-| [阿Q后人](./阿Q后人/阿Q后人.md)                            |
-| [三相之力](./三相之力/三相之力.md)                         |
+| [米孝子](./米孝子/米孝子.md)                              |
+| [阿Q后人](./阿Q后人/阿Q后人.md)                           |
+| [三相之力](./三相之力/三相之力.md)                        |
 | [原批法学](./原批法学/原批法学.md)                         |
 | [原批教育学](./原批教育学/原批教育学.md)                   |
 | [原批理工科学](./原批理工科学/原批理工科学.md)             |
@@ -27,9 +26,8 @@
 | [原批神兔二相性](./原批神兔二相性/原批神兔二相性.md)       |
 | [原批眼科病例](./原批眼科病例/原批眼科病例.md)             |
 | [原神使我自豪](./原神使我自豪/原神使我自豪.md)             |
-|                                                            |
-|                                                            |
-|                                                            |
+| [原批评委](./原批评委/原批评委.md)      |
+
 
 
 # 一.简介 A brief introduction
@@ -82,8 +80,6 @@
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/感觉画质不如原神.jpg)
 
-
-
 ### 2.傲慢与偏见  Pride and Prejudice
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/傲慢与偏见.png)
@@ -92,14 +88,9 @@
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/心寒米哈游一游.jpg)
 
-
-
 ### 4.不平等交易 Unequal exchange
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/不平等交易.jpg)
-
-
-
 
 
 ### 5.原神的英文是？ What's English name of "YuanShen"?
@@ -111,16 +102,11 @@
 该原批个人空间：<a href="https://space.bilibili.com/954799" target="_blank">nanisamaga</a>
 
 
-
-
 ### 6.认鸡作母 Take prostitute as mother
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/认鸡作母1.jpg)
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/认鸡作母2.jpg)
-
-
-
 
 ### 7.此円批非彼原批  Madoka is not Genshit
 
@@ -129,9 +115,6 @@
 ### 8.救星
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/救星.jpg)
-
-
-
 
 ### 9.不是小作坊 Not a small workshop
 
@@ -146,7 +129,6 @@
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/饭圈化.png)
 
 
-
 ### 12.囤积居奇  Hoarding and cornering
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/囤积居奇.jpg)
@@ -156,8 +138,6 @@
 ### 13.里程碑  Milepost
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/里程碑.jpg)
-
-
 
 ### 14.新闻跨度大   Wide Span
 
@@ -191,3 +171,7 @@
 规范的、持续的、集约的、正常的、有序的、
 智能的、优质的、科学的、年轻的、专业的、
 信息的、数字的、标准的、精细的
+
+# 五.Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=DreamingCats/GenshitJokes&type=Date)](https://star-history.com/#DreamingCats/GenshitJokes&Date)
