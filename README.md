@@ -1,36 +1,69 @@
-# 原批笑话 Genshit Jokes/原氏物语 The Tale of Genshit
 
-[Q&A](./QA/QA.md) 
+# 常见问题
 
-<img src="https://github.com/DreamingCats/GenshitJokes/raw/main/images/禁止原批.jpg" width="50%" height="50%"> 
+
+### 1.无法加载图片
+
+图床采用项目本身（Github raw）,如果您能看到markdown中文字，却看不到图片，请使用加速器（[Watt Toolkit](https://steampp.net/)或VPN等）
+
+此外，如果需要引用图片，按照以下格式即可：
+
+```
+![](https://github.com/DreamingCats/GenshitJokes/raw/main/子目录/图片名称.png)
+```
+
+### 2.下载
+
+#### 1.release
+选最新的下载即可
+[releases](https://github.com/DreamingCats/GenshitJokes/releases)
+
+#### 2.直接下载
+![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/download.png)
+
+#### 3.pip(需要安装Python)
+正在开发中，即使开发完成也强烈不推荐
+```
+pip install genshitjokes
+```
+### 3.投稿
+
+[投稿说明](https://github.com/DreamingCats/GenshitJokes/issues/3)
+
+以下两种投稿方式均可：
+①fork这个项目进行修改，然后pull request
+②发到本项目的[issue](https://github.com/DreamingCats/GenshitJokes/issues/3)中
+
+### 4.联系删除
+
+如果某位用户并不想被挂，可以联系我，我会再下一次更新中删除对应的内容。
 
 # 零.索引   Index
 
-| 索引                                                       |
-| ---------------------------------------------------------- |
-| [恶意合订本](./恶意合订本/恶意合订本.md)                   |
-| [爆杀原批](./爆杀原批/爆杀原批.md)                         |
-| [引原丁真](./引原丁真/引原丁真.md)                   |
-| [原批作文选](./原批作文选.md)                   |
-| [3A之战](./3A之战/3A之战.md)                               |
-| [超能原批大搜索](./超能原批大搜索/超能原批大搜索.md)       |
-| [米孝子](./米孝子/米孝子.md)                              |
-| [阿Q后人](./阿Q后人/阿Q后人.md)                           |
-| [三相之力](./三相之力/三相之力.md)                        |
-| [原批法学](./原批法学/原批法学.md)                         |
-| [原批教育学](./原批教育学/原批教育学.md)                   |
-| [原批理工科学](./原批理工科学/原批理工科学.md)             |
-| [原批历史与文化学](./原批历史与文化学/原批历史与文化学.md) |
-| [原批伦理学](./原批伦理学/原批伦理学.md)                   |
-| [原批政治经济学](./原批政治经济学/原批政治经济学.md)       |
-| [原批神兔二相性](./原批神兔二相性/原批神兔二相性.md)       |
-| [原批眼科病例](./原批眼科病例/原批眼科病例.md)             |
-| [原神使我自豪](./原神使我自豪/原神使我自豪.md)             |
-| [原批评委](./原批评委/原批评委.md)      |
+<img src="https://github.com/DreamingCats/GenshitJokes/raw/main/images/禁止原批.jpg" width="40%" height="40%"> 
+
+| 索引                                                 |                                                      |                                                |
+| ---------------------------------------------------- | ---------------------------------------------------- | ---------------------------------------------- |
+| [恶意合订本](./恶意合订本/恶意合订本.md)             |                                                      |                                                |
+| [爆杀原批](./爆杀原批/爆杀原批.md)                   |                                                      |                                                |
+| [引原丁真](./引原丁真/引原丁真.md)                   | [原神联动](./原神联动/原神联动.md)                   |                                                |
+| [原批作文选](./原批作文选.md)                        |                                                      |                                                |
+| [3A之战](./3A之战/3A之战.md)                         | [原批评委](./原批评委/原批评委.md)                   | [三相之力](./三相之力/三相之力.md)             |
+| [超能原批大搜索](./超能原批大搜索/超能原批大搜索.md) | [原批眼科病例](./原批眼科病例/原批眼科病例.md)       |                                                |
+| [米孝子](./米孝子/米孝子.md)                         | [阿Q后人](./阿Q后人/阿Q后人.md)                      | [原神使我自豪](./原神使我自豪/原神使我自豪.md) |
+| [原批理工科学](./原批理工科学/原批理工科学.md)       |                                                      |                                                |
+| [原批政治经济学](./原批政治经济学/原批政治经济学.md) | [原批神兔二相性](./原批神兔二相性/原批神兔二相性.md) | [原批法学](./原批法学/原批法学.md)             |
+|                                                      |                                                      |                                                |
+|                                                      |                                                      |                                                |
 
 
 
 # 一.简介 A brief introduction
+
+本项目的其他名称：
+原批笑话 Genshit Jokes
+原批圣经 Genshit Bible
+原氏物语 The Tale of Genshit
 
 原批笑话和鸡3笑话收集，采用Markdown语法编写，排名不分先后，不定期更新
 
@@ -47,13 +80,13 @@
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/一定是米哈游干的.gif)
 
-## 什么是原批？  Who is a genshit?
+### 什么是原批？  Who is a genshit?
 
 <a href="https://jikipedia.com/definition/baidu_qa/458907976" target="_blank">原批-小鸡词典</a>
 
 国外一般将这类行为叫做Genshit。
 
-## 在哪里可以看到原批？ Where can find genshits?
+### 在哪里可以看到原批？ Where can find genshits?
 
 几乎在互联网的任何地方。
 
@@ -65,7 +98,7 @@
 
 <a href="" target="_blank"></a>
 
-## 收集来源  Source
+### 收集来源  Source
 
 <a href="https://tieba.baidu.com/f?ie=utf-8&kw=mihoyo&fr=search" target="_blank">百度mihoyo吧</a>
 
@@ -84,9 +117,6 @@
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/傲慢与偏见.png)
 
-### 3.心寒米哈游一游   Resist
-
-![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/心寒米哈游一游.jpg)
 
 ### 4.不平等交易 Unequal exchange
 
@@ -102,7 +132,7 @@
 该原批个人空间：<a href="https://space.bilibili.com/954799" target="_blank">nanisamaga</a>
 
 
-### 6.认鸡作母 Take prostitute as mother
+### 6.认鸡作母 import prostitute as mother
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/认鸡作母1.jpg)
 
@@ -142,10 +172,6 @@
 ### 14.新闻跨度大   Wide Span
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/新闻跨度大.jpg)
-
-
-
-
 
 
 
