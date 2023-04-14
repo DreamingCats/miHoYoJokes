@@ -30,9 +30,9 @@ pip install genshitjokes
 
 [投稿说明](https://github.com/DreamingCats/GenshitJokes/issues/3)
 
-以下两种投稿方式均可：
-①fork这个项目进行修改，然后pull request
-②发到本项目的[issue](https://github.com/DreamingCats/GenshitJokes/issues/3)中
+以下两种投稿方式均可：  
+①fork这个项目进行修改，然后pull request  
+②发到本项目的[issue](https://github.com/DreamingCats/GenshitJokes/issues/3)中  
 
 ### 4.联系删除
 
@@ -45,7 +45,7 @@ pip install genshitjokes
 | 索引                                                 |                                                      |                                                |
 | ---------------------------------------------------- | ---------------------------------------------------- | ---------------------------------------------- |
 | [恶意合订本](./恶意合订本/恶意合订本.md)             |                                                      |                                                |
-| [爆杀原批](./爆杀原批/爆杀原批.md)                   |                                                      |                                                |
+| [爆杀原批](./爆杀原批/爆杀原批.md)                   | [禁原贴吧列表](./禁原贴吧列表/禁原贴吧列表.md)       |                                                |
 | [引原丁真](./引原丁真/引原丁真.md)                   | [原神联动](./原神联动/原神联动.md)                   |                                                |
 | [原批作文选](./原批作文选.md)                        |                                                      |                                                |
 | [3A之战](./3A之战/3A之战.md)                         | [原批评委](./原批评委/原批评委.md)                   | [三相之力](./三相之力/三相之力.md)             |
