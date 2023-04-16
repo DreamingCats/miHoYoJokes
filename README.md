@@ -1,5 +1,5 @@
 
-# 常见问题
+# 一.常见问题
 
 
 ### 1.无法加载图片
@@ -38,27 +38,27 @@ pip install genshitjokes
 
 如果某位用户并不想被挂，可以联系我，我会再下一次更新中删除对应的内容。
 
-# 零.索引   Index
+# 二.索引   Index
 
 <img src="https://github.com/DreamingCats/GenshitJokes/raw/main/images/禁止原批.jpg" width="40%" height="40%"> 
 
-| 索引                                                 |                                                      |                                                |
-| ---------------------------------------------------- | ---------------------------------------------------- | ---------------------------------------------- |
-| [恶意合订本](./恶意合订本/恶意合订本.md)             |                                                      |                                                |
-| [爆杀原批](./爆杀原批/爆杀原批.md)                   | [禁原贴吧列表](./禁原贴吧列表/禁原贴吧列表.md)       |                                                |
-| [引原丁真](./引原丁真/引原丁真.md)                   | [原神联动](./原神联动/原神联动.md)                   |                                                |
-| [原批作文选](./原批作文选.md)                        |                                                      |                                                |
-| [3A之战](./3A之战/3A之战.md)                         | [原批评委](./原批评委/原批评委.md)                   | [三相之力](./三相之力/三相之力.md)             |
-| [超能原批大搜索](./超能原批大搜索/超能原批大搜索.md) | [原批眼科病例](./原批眼科病例/原批眼科病例.md)       |                                                |
-| [米孝子](./米孝子/米孝子.md)                         | [阿Q后人](./阿Q后人/阿Q后人.md)                      | [原神使我自豪](./原神使我自豪/原神使我自豪.md) |
-| [原批理工科学](./原批理工科学/原批理工科学.md)       |                                                      |                                                |
-| [原批政治经济学](./原批政治经济学/原批政治经济学.md) | [原批神兔二相性](./原批神兔二相性/原批神兔二相性.md) | [原批法学](./原批法学/原批法学.md)             |
-|                                                      |                                                      |                                                |
-|                                                      |                                                      |                                                |
+| 索引                                                       |                                                      |                                                |
+| ---------------------------------------------------------- | ---------------------------------------------------- | ---------------------------------------------- |
+| [恶意合订本](./恶意合订本/恶意合订本.md)                   |                                                      |                                                |
+| [爆杀原批](./爆杀原批/爆杀原批.md)                         | [禁原贴吧列表](./禁原贴吧列表/禁原贴吧列表.md)       |                                                |
+| [引原丁真](./引原丁真/引原丁真.md)                         | [原神联动](./原神联动/原神联动.md)                   |                                                |
+| [原批作文选](./原批作文选.md)                              |                                                      |                                                |
+| [3A之战](./3A之战/3A之战.md)                               | [原批评委](./原批评委/原批评委.md)                   | [三相之力](./三相之力/三相之力.md)             |
+| [超能原批大搜索](./超能原批大搜索/超能原批大搜索.md)       | [原批眼科病例](./原批眼科病例/原批眼科病例.md)       |                                                |
+| [米孝子](./米孝子/米孝子.md)                               |                                                      | [原神使我自豪](./原神使我自豪/原神使我自豪.md) |
+| [原批理工科学](./原批理工科学/原批理工科学.md)             |                                                      |                                                |
+| [原批政治经济学](./原批政治经济学/原批政治经济学.md)       | [原批神兔二相性](./原批神兔二相性/原批神兔二相性.md) | [原批法学](./原批法学/原批法学.md)             |
+| [原批历史与文化学](./原批历史与文化学/原批历史与文化学.md) | [原批新闻学](./原批新闻学/原批新闻学.md)             |                                                |
+| [策划招聘计划](./策划招聘计划/策划招聘计划.md)             |                                                      |                                                |
 
 
 
-# 一.简介 A brief introduction
+# 三.简介 A brief introduction
 
 本项目的其他名称：
 原批笑话 Genshit Jokes
@@ -74,7 +74,6 @@ pip install genshitjokes
 图片内容仅做收集，并不代表本人@DreamingCats的观点和立场。
 
 有些图片画质不如原神，也很难保证不是反串，或者PS/F12，看个乐呵就行
-
 
 最后，搞这个合集的目的之一也是想告诉大家：<font color="red">互联网有历史</font>
 
@@ -100,81 +99,18 @@ pip install genshitjokes
 
 ### 收集来源  Source
 
-<a href="https://tieba.baidu.com/f?ie=utf-8&kw=mihoyo&fr=search" target="_blank">百度mihoyo吧</a>
+#### ①百度
+<a href="https://tieba.baidu.com/f?ie=utf-8&kw=mihoyo&fr=search" target="_blank">mihoyo吧</a>
 
-<a href="https://tieba.baidu.com/f?kw=%E5%8E%9F%E6%89%B9%E7%AC%91%E8%AF%9D&ie=utf-8" target="_blank">百度原批笑话吧</a>
+<a href="https://tieba.baidu.com/f?kw=%E5%8E%9F%E6%89%B9%E7%AC%91%E8%AF%9D&ie=utf-8" target="_blank">原批笑话吧</a>
 
+<a href="https://tieba.baidu.com/f?kw=%E5%8F%8D%E5%8E%9F%E7%A5%9E&ie=utf-8&pn=50" target="_blank">反原神吧</a>
 
+#### ②B站
 
-# 二.原批圣经  Genshit Bible
+<a href="https://space.bilibili.com/1443474511/dynamic" target="_blank">吟原詩人</a>
 
-
-### 1.感觉不如原神。。。画质  less than Genshin ... image quality
-
-![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/感觉画质不如原神.jpg)
-
-### 2.傲慢与偏见  Pride and Prejudice
-
-![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/傲慢与偏见.png)
-
-
-### 4.不平等交易 Unequal exchange
-
-![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/不平等交易.jpg)
-
-
-### 5.原神的英文是？ What's English name of "YuanShen"?
-
-![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/原神的英文是？.png)
-
-出处：<a href="https://www.bilibili.com/video/BV1Na411k7GT?p=1&t=32" target="_blank">王刚和四伯自制80斤川味香肠，是美食文化的传承也是满满的幸福</a>  的评论区，往下翻，没删
-
-该原批个人空间：<a href="https://space.bilibili.com/954799" target="_blank">nanisamaga</a>
-
-
-### 6.认鸡作母 import prostitute as mother
-
-![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/认鸡作母1.jpg)
-
-![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/认鸡作母2.jpg)
-
-### 7.此円批非彼原批  Madoka is not Genshit
-
-![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/此円批非彼原批.jpg)
-
-### 8.救星
-
-![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/救星.jpg)
-
-### 9.不是小作坊 Not a small workshop
-
-![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/不是小作坊.jpg)
-
-### 10.不适合这位氪佬 Don't suit this Kr man
-
-![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/不适合这位氪佬.jpg)
-
-### 11.饭圈化  Fandomize
-
-![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/饭圈化.png)
-
-
-### 12.囤积居奇  Hoarding and cornering
-
-![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/囤积居奇.jpg)
-
-去鸡舍搜了一下，这帖子没了
-
-### 13.里程碑  Milepost
-
-![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/里程碑.jpg)
-
-### 14.新闻跨度大   Wide Span
-
-![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/新闻跨度大.jpg)
-
-
-
+<a href="https://space.bilibili.com/3196602/dynamic" target="_blank">原神玩家集體记忆名錄</a>
 
 
 
