@@ -52,11 +52,7 @@ pip install genshitjokes
 ```
 ### 3.投稿
 
-[投稿说明](https://github.com/DreamingCats/GenshitJokes/issues/3)
-
-以下两种投稿方式均可：  
-①fork这个项目进行修改，然后pull request  
-②发到本项目的[issue](https://github.com/DreamingCats/GenshitJokes/issues/3)中  
+见[投稿说明](./CONTRIBUTING.md)
 
 ### 4.联系删除
 
