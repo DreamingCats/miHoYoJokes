@@ -46,7 +46,7 @@ git clone https://github.com/DreamingCats/GenshitJokes.git
 ```
 
 #### 3.pip(需要安装Python)
-正在开发中，即使开发完成也强烈不推荐
+[GenshitJokes·PyPI](https://pypi.org/project/genshitjokes/#description)
 ```
 pip install genshitjokes
 ```
