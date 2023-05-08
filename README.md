@@ -20,7 +20,7 @@
 
 # 二.常见问题
 
-### 1.无法加载图片
+## 1.无法加载图片
 
 图床采用项目本身（Github raw）,如果您能看到markdown中文字，却看不到图片，请使用加速器（[Watt Toolkit](https://steampp.net/)或VPN等）
 
@@ -30,31 +30,38 @@
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/子目录/图片名称.jpg)
 ```
 
-### 2.下载
+## 2.下载
 
 因为图片引用采用绝对路径，如果单纯浏览，可以不下载图片，只下载markdown文件即可。
 
-#### 1.release
+### 1.release
 选最新的下载即可
 [releases](https://github.com/DreamingCats/GenshitJokes/releases)
 
-#### 2.直接下载
+### 2.直接下载
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/download.png)
 
 ```
 git clone https://github.com/DreamingCats/GenshitJokes.git
 ```
 
-#### 3.pip(需要安装Python)
+### 3.pip(需要安装Python)
 [GenshitJokes·PyPI](https://pypi.org/project/genshitjokes/#description)
 ```
 pip install genshitjokes
 ```
-### 3.投稿
+
+### 4.docker
+正在开发中
+```
+docker pull laosepi/genshitjokes
+```
+
+## 3.投稿
 
 见[投稿说明](./CONTRIBUTING.md)
 
-### 4.联系删除
+## 4.联系删除
 
 如果某位用户并不想被挂，可以联系我，我会再下一次更新中删除对应的内容。
 
