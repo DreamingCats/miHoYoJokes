@@ -18,7 +18,7 @@
 
 
 
-# 二.常见问题
+# 二.常见问题   Common Problems
 
 ## 1.无法加载图片
 
@@ -47,12 +47,14 @@ git clone https://github.com/DreamingCats/GenshitJokes.git
 
 ### 3.pip(需要安装Python)
 [GenshitJokes·PyPI](https://pypi.org/project/genshitjokes/#description)
+
 ```
 pip install genshitjokes
 ```
 
 ### 4.docker
-正在开发中
+[laosepi/genshitjokes - Docker Image | Docker Hub](https://hub.docker.com/r/laosepi/genshitjokes)
+
 ```
 docker pull laosepi/genshitjokes
 ```
@@ -120,9 +122,15 @@ docker pull laosepi/genshitjokes
 
 <a href="https://space.bilibili.com/3196602/dynamic" target="_blank">原神玩家集體记忆名錄</a>
 
+# 四.画饼
 
+## 1.原批数据集
 
-# 四.后记
+NLP监督学习
+
+## 2.自动收集
+
+# 五.后记
 
 正确的，直接的，中肯的，完整的，
 立体的，客观的，合理的，明晰的，
@@ -142,6 +150,6 @@ docker pull laosepi/genshitjokes
 智能的、优质的、科学的、年轻的、专业的、
 信息的、数字的、标准的、精细的
 
-# 五.Star History
+# 六.Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=DreamingCats/GenshitJokes&type=Date)](https://star-history.com/#DreamingCats/GenshitJokes&Date)
