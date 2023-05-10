@@ -1,20 +1,20 @@
 # 一.索引   Index
 
-<img src="https://github.com/DreamingCats/GenshitJokes/raw/main/images/禁止原批.jpg" width="40%" height="40%"> 
+<img src="https://github.com/DreamingCats/GenshitJokes/raw/main/readme_img/禁止原批.jpg" width="40%" height="40%"> 
 
 | 索引                                                       |                                                      |                                    |
 | ---------------------------------------------------------- | ---------------------------------------------------- | ---------------------------------- |
-| [恶意合订本](./恶意合订本/恶意合订本.md)                   |                                                      |                                    |
-| [爆杀原批](./爆杀原批/爆杀原批.md)                         | [禁原贴吧列表](./禁原贴吧列表/禁原贴吧列表.md)       | [原批定律](./原批定律/原批定律.md) |
-| [引原丁真](./引原丁真/引原丁真.md)                         | [原神联动](./原神联动/原神联动.md)                   |                                    |
-| [原批作文选](./原批作文选.md)                              |                                                      |                                    |
-| [3A之战](./3A之战/3A之战.md)                               | [原批评委](./原批评委/原批评委.md)                   | [三相之力](./三相之力/三相之力.md) |
-| [超能原批大搜索](./超能原批大搜索/超能原批大搜索.md)       | [原批眼科病例](./原批眼科病例/原批眼科病例.md)       |                                    |
-| [米孝子](./米孝子/米孝子.md)                               | [原神使我自豪](./原神使我自豪/原神使我自豪.md)       |                                    |
-| [原批理工科学](./原批理工科学/原批理工科学.md)             |                                                      |                                    |
-| [原批政治经济学](./原批政治经济学/原批政治经济学.md)       | [原批神兔二相性](./原批神兔二相性/原批神兔二相性.md) | [原批法学](./原批法学/原批法学.md) |
-| [原批历史与文化学](./原批历史与文化学/原批历史与文化学.md) | [原批新闻学](./原批新闻学/原批新闻学.md)             |                                    |
-| [策划招聘计划](./策划招聘计划/策划招聘计划.md)             |                                                      |                                    |
+| [恶意合订本](./genshitjokes/恶意合订本/恶意合订本.md)                   |                                                      |                                    |
+| [爆杀原批](./genshitjokes/爆杀原批/爆杀原批.md)                         | [禁原贴吧列表](./genshitjokes/禁原贴吧列表/禁原贴吧列表.md)       | [原批定律](./genshitjokes/原批定律/原批定律.md) |
+| [引原丁真](./genshitjokes/引原丁真/引原丁真.md)                         | [原神联动](./genshitjokes/原神联动/原神联动.md)                   |                                    |
+| [原批作文选](./genshitjokes/原批作文选.md)                              |                                                      |                                    |
+| [3A之战](./genshitjokes/3A之战/3A之战.md)                               | [原批评委](./genshitjokes/原批评委/原批评委.md)                   | [三相之力](./genshitjokes/三相之力/三相之力.md) |
+| [超能原批大搜索](./genshitjokes/超能原批大搜索/超能原批大搜索.md)       | [原批眼科病例](./genshitjokes/原批眼科病例/原批眼科病例.md)       |                                    |
+| [米孝子](./genshitjokes/米孝子/米孝子.md)                               | [原神使我自豪](./genshitjokes/原神使我自豪/原神使我自豪.md)       |                                    |
+| [原批理工科学](./genshitjokes/原批理工科学/原批理工科学.md)             |                                                      |                                    |
+| [原批政治经济学](./genshitjokes/原批政治经济学/原批政治经济学.md)       | [原批神兔二相性](./genshitjokes/原批神兔二相性/原批神兔二相性.md) | [原批法学](./genshitjokes/原批法学/原批法学.md) |
+| [原批历史与文化学](./genshitjokes/原批历史与文化学/原批历史与文化学.md) | [原批新闻学](./genshitjokes/原批新闻学/原批新闻学.md)             |                                    |
+| [策划招聘计划](./genshitjokes/策划招聘计划/策划招聘计划.md)             |                                                      |                                    |
 
 
 
@@ -24,10 +24,12 @@
 
 图床采用项目本身（Github raw）,如果您能看到markdown中文字，却看不到图片，请使用加速器（[Watt Toolkit](https://steampp.net/)或VPN等）
 
+由于在Android客户端下，使用相对路径的图片不显示，因此使用url绝对路径。
+
 此外，如果需要引用图片，按照以下格式即可：
 
 ```
-![](https://github.com/DreamingCats/GenshitJokes/raw/main/子目录/图片名称.jpg)
+![](https://github.com/DreamingCats/GenshitJokes/raw/main/genshitjokes/子目录/图片名称.jpg)
 ```
 
 ## 2.下载
@@ -35,17 +37,22 @@
 因为图片引用采用绝对路径，如果单纯浏览，可以不下载图片，只下载markdown文件即可。
 
 ### 1.release
-选最新的下载即可
+选最新的下载即可，更新慢
 [releases](https://github.com/DreamingCats/GenshitJokes/releases)
 
-### 2.直接下载
+### 2.直接下载（推荐）
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/download.png)
+
+或使用Git：
 
 ```
 git clone https://github.com/DreamingCats/GenshitJokes.git
 ```
 
-### 3.pip(需要安装Python)
+### 3.pip
+
+需要安装Python
+
 [GenshitJokes·PyPI](https://pypi.org/project/genshitjokes/#description)
 
 ```
@@ -87,7 +94,7 @@ docker pull laosepi/genshitjokes
 
 最后，搞这个合集的目的之一也是想告诉大家：<font color="red">互联网有历史</font>
 
-![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/一定是米哈游干的.gif)
+![](https://github.com/DreamingCats/GenshitJokes/raw/main/readme_img/一定是米哈游干的.gif)
 
 ### 什么是原批？  Who is a genshit?
 
