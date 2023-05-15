@@ -14,7 +14,7 @@
 | [原批理工科学](./genshitjokes/原批理工科学/原批理工科学.md)             |                                                      |                                    |
 | [原批政治经济学](./genshitjokes/原批政治经济学/原批政治经济学.md)       | [原批神兔二相性](./genshitjokes/原批神兔二相性/原批神兔二相性.md) | [原批法学](./genshitjokes/原批法学/原批法学.md) |
 | [原批历史与文化学](./genshitjokes/原批历史与文化学/原批历史与文化学.md) | [原批新闻学](./genshitjokes/原批新闻学/原批新闻学.md)             |                                    |
-| [策划招聘计划](./genshitjokes/策划招聘计划/策划招聘计划.md)             |                                                      |                                    |
+| [原批策划](./genshitjokes/原批策划/原批策划.md)     |                                                      |                                    |
 
 
 
