@@ -2,14 +2,28 @@ import codecs
 import os
 from setuptools import setup, find_packages
 
+'''
 # these things are needed for the README.md show on pypi
 here = os.path.abspath(os.path.dirname(__file__))
 
 with codecs.open(os.path.join(here, "README.md"), encoding="utf-8") as fh:
     long_description = "\n" + fh.read()
+'''
 
 
-VERSION = '2023.8.7'
+here = os.path.abspath(os.path.dirname(__file__))
+excluded_folder = "未整理的原批笑话"  # Replace with the folder name you want to exclude
+
+long_description = ""
+
+for filename in os.listdir(here):
+    if filename != excluded_folder and os.path.isfile(os.path.join(here, filename)):
+        with codecs.open(os.path.join(here, filename), encoding="utf-8") as fh:
+            long_description += "\n" + fh.read()
+
+
+
+VERSION = '2023.8.10'
 DESCRIPTION = '原批笑话'
 LONG_DESCRIPTION = '有关原神的经典发言'
 

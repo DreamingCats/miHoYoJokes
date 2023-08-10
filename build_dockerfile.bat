@@ -1,6 +1,12 @@
-echo Please start docker manually
+rem echo Please start docker manually
+
+echo You should install Docker Desktop
 pause
 
-docker build -t laosepi/genshitjokes .
+echo Trying to start Docker Desktop...
+start "" "C:\Program Files\Docker\Docker\Docker Desktop.exe"
 
+
+
+docker build -t laosepi/genshitjokes .
 pause
