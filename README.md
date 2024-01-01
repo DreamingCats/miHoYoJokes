@@ -6,7 +6,7 @@
 | ---------------------------------------------------------- | ---------------------------------------------------- | ---------------------------------- |
 | [恶意合订本](./genshitjokes/恶意合订本/恶意合订本.md)                   |                                                      |                                    |
 | [爆杀原批](./genshitjokes/爆杀原批/爆杀原批.md)                         | [禁原贴吧列表](./genshitjokes/禁原贴吧列表/禁原贴吧列表.md)       | [原批定律](./genshitjokes/原批定律/原批定律.md) |
-| [引原丁真](./genshitjokes/引原丁真/引原丁真.md)                         | [原神联动](./genshitjokes/原神联动/原神联动.md)                   | [原的救赎](./genshitjokes/原的救赎/原的救赎.md) |
+| [引原丁真](./genshitjokes/引原丁真/引原丁真.md)                         | [原神联动](./genshitjokes/原神联动/原神联动.md)                   |  |
 | [原批作文选](./genshitjokes/原批作文选/原批作文选.md)                        |                                                      |                                    |
 | [3A之战](./genshitjokes/3A之战/3A之战.md)                               | [原批评委](./genshitjokes/原批评委/原批评委.md)                   | [三相之力](./genshitjokes/三相之力/三相之力.md) |
 | [超能原批大搜索](./genshitjokes/超能原批大搜索/超能原批大搜索.md)       | [原批眼科病例](./genshitjokes/原批眼科病例/原批眼科病例.md)       |                                    |
@@ -14,6 +14,7 @@
 | [原批理工科学](./genshitjokes/原批理工科学/原批理工科学.md)             |                                                      |                                    |
 | [原批政治经济学](./genshitjokes/原批政治经济学/原批政治经济学.md)       | [原批神兔二相性](./genshitjokes/原批神兔二相性/原批神兔二相性.md) | [你最好说的是原神](./genshitjokes/你最好说的是原神/你最好说的是原神.md) |
 | [原批历史与文化学](./genshitjokes/原批历史与文化学/原批历史与文化学.md) | [原批新闻学](./genshitjokes/原批新闻学/原批新闻学.md)             | [原批法学](./genshitjokes/原批法学/原批法学.md) |
+| [原批伦理学](./genshitjokes/原批伦理学/原批伦理学.md) | [原批心理学](./genshitjokes/原批心理学/原批心理学.md) |  |
 | [原批策划](./genshitjokes/原批策划/原批策划.md)     | [数值膨胀](./genshitjokes/数值膨胀/数值膨胀.md) |                                    |
 
 
@@ -52,6 +53,8 @@ git clone https://github.com/DreamingCats/GenshitJokes.git
 ### 3.pip
 
 需要安装Python
+
+~~文件大于100MB了，超出免费额度，先停更~~
 
 [GenshitJokes·PyPI](https://pypi.org/project/genshitjokes/#description)
 
@@ -128,6 +131,8 @@ docker pull laosepi/genshitjokes
 <a href="https://space.bilibili.com/1443474511/dynamic" target="_blank">吟原詩人</a>
 
 <a href="https://space.bilibili.com/3196602/dynamic" target="_blank">原神玩家集體记忆名錄</a>
+
+#### ③任何地方
 
 # 四.画饼
 
