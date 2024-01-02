@@ -56,14 +56,15 @@ git clone https://github.com/DreamingCats/GenshitJokes.git
 
 ~~文件大于100MB了，超出免费额度，先停更~~
 
-[GenshitJokes·PyPI](https://pypi.org/project/genshitjokes/#description)
+<a href="https://pypi.org/project/genshitjokes/#description" target="_blank">GenshitJokes·PyPI</a>
 
 ```
 pip install genshitjokes
 ```
 
 ### 4.docker
-[laosepi/genshitjokes - Docker Image | Docker Hub](https://hub.docker.com/r/laosepi/genshitjokes)
+
+<a href="https://hub.docker.com/r/laosepi/genshitjokes" target="_blank">laosepi/genshitjokes - Docker Image | Docker Hub·PyPI</a>
 
 ```
 docker pull laosepi/genshitjokes
