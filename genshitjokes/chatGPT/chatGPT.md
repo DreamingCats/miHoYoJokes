@@ -9,3 +9,7 @@ Let AI tell you...
 ### 2.我爱原神
 
 ![](https://github.com/DreamingCats/GenshitJokes/raw/main/genshitjokes/chatGPT/我爱原神.jpg)
+
+### 3.最好的称呼    
+
+![](https://github.com/DreamingCats/GenshitJokes/raw/main/genshitjokes/chatGPT/最好的称呼.jpg)
