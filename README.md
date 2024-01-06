@@ -116,7 +116,9 @@ docker pull laosepi/genshitjokes
 
 <a href="https://tieba.baidu.com/f?kw=%E5%8E%9F%E7%A5%9E&ie=utf-8&tab=main" target="_blank">百度原神吧</a>
 
-<a href="" target="_blank"></a>
+<a href="https://www.zhihu.com/search?q=%E5%8E%9F%E7%A5%9E&type=content" target="_blank">米乎</a>
+
+<a href="https://www.douyin.com/search/%E5%8E%9F%E7%A5%9E" target="_blank">抖音</a>
 
 ### 收集来源  Source
 
