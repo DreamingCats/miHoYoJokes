@@ -11,7 +11,7 @@
 | [3A之战](./genshitjokes/3A之战/3A之战.md)                               | [原批评委](./genshitjokes/原批评委/原批评委.md)                   | [三相之力](./genshitjokes/三相之力/三相之力.md) |
 | [超能原批大搜索](./genshitjokes/超能原批大搜索/超能原批大搜索.md)       | [原批眼科病例](./genshitjokes/原批眼科病例/原批眼科病例.md)       |                                    |
 | [米孝子](./genshitjokes/米孝子/米孝子.md)                               | [原神使我自豪](./genshitjokes/原神使我自豪/原神使我自豪.md)       | [二刺螈教父](./genshitjokes/二刺螈教父/二刺螈教父.md) |
-| [原批理工科学](./genshitjokes/原批理工科学/原批理工科学.md)             |                                                      |                                    |
+| [原批理工科学](./genshitjokes/原批理工科学/原批理工科学.md)             | [原批医学](./genshitjokes/原批医学/原批医学.md) |                                    |
 | [原批政治经济学](./genshitjokes/原批政治经济学/原批政治经济学.md)       | [原批神兔二相性](./genshitjokes/原批神兔二相性/原批神兔二相性.md) | [你最好说的是原神](./genshitjokes/你最好说的是原神/你最好说的是原神.md) |
 | [原批历史与文化学](./genshitjokes/原批历史与文化学/原批历史与文化学.md) | [原批新闻学](./genshitjokes/原批新闻学/原批新闻学.md)             | [原批法学](./genshitjokes/原批法学/原批法学.md) |
 | [原批伦理学](./genshitjokes/原批伦理学/原批伦理学.md) | [原批心理学](./genshitjokes/原批心理学/原批心理学.md) |  |
