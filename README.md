@@ -54,8 +54,6 @@ git clone https://github.com/DreamingCats/GenshitJokes.git
 
 需要安装Python
 
-~~文件大于100MB了，超出免费额度，先停更~~
-
 <a href="https://pypi.org/project/genshitjokes/#description" target="_blank">GenshitJokes·PyPI</a>
 
 ```
@@ -166,6 +164,12 @@ NLP监督学习
 智能的、优质的、科学的、年轻的、专业的、
 信息的、数字的、标准的、精细的...
 
-# 六.Star History
+# 六.特别鸣谢
+
+<a href="https://github.com/microsoft/vscode" target="_blank">microsoft/vscode</a>
+
+<a href="https://github.com/hiroi-sora/Umi-OCR" target="_blank">hiroi-sora/Umi-OCR</a>
+
+# 七.Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=DreamingCats/GenshitJokes&type=Date)](https://star-history.com/#DreamingCats/GenshitJokes&Date)
