@@ -1,0 +1,31 @@
+name: Package Genshit Jokes Folder
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'genshitjokes/**'
+      - 'README.md'
+
+jobs:
+  package:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Setup ZIP
+        run: sudo apt-get install zip
+
+      - name: Zip the genshitjokes folder and README.md with date
+        run: |
+          DATE=$(date +'%Y.%m.%d')
+          zip -r "genshitjokes_$DATE.zip" genshitjokes/ README.md
+
+      - name: Upload Artifact
+        uses: actions/upload-artifact@v2
+        with:
+          name: genshitjokes-archive-$DATE
+          path: "genshitjokes_$DATE.zip"
