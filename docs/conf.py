@@ -9,7 +9,7 @@
 project = 'genshitjokes'
 copyright = '2023, dreamingcats'
 author = 'dreamingcats'
-release = 'https://github.com/DreamingCats/GenshitJokes'
+release = 'https://github.com/DreamingCats/miHoYoJokes'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration

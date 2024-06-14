@@ -9,3 +9,6 @@
 
 # Release
 *.zip
+
+# VSCode
+.vscode

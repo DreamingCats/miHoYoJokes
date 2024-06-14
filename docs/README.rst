@@ -1,6 +1,6 @@
 # 一.索引   Index
 
-<img src="https://github.com/DreamingCats/GenshitJokes/raw/main/images/禁止原批.jpg" width="40%" height="40%"> 
+<img src="https://github.com/DreamingCats/miHoYoJokes/raw/main/images/禁止原批.jpg" width="40%" height="40%"> 
 
 | 索引                                                       |                                                      |                                    |
 | ---------------------------------------------------------- | ---------------------------------------------------- | ---------------------------------- |
@@ -29,7 +29,7 @@
 此外，如果需要引用图片，按照以下格式即可：
 
 ```
-![](https://github.com/DreamingCats/GenshitJokes/raw/main/子目录/图片名称.jpg)
+![](https://github.com/DreamingCats/miHoYoJokes/raw/main/子目录/图片名称.jpg)
 ```
 
 ## 2.下载
@@ -38,22 +38,22 @@
 
 ### 1.release
 选最新的下载即可，更新慢
-[releases](https://github.com/DreamingCats/GenshitJokes/releases)
+[releases](https://github.com/DreamingCats/miHoYoJokes/releases)
 
 ### 2.直接下载（推荐）
-![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/download.png)
+![](https://github.com/DreamingCats/miHoYoJokes/raw/main/images/download.png)
 
 或使用Git：
 
 ```
-git clone https://github.com/DreamingCats/GenshitJokes.git
+git clone https://github.com/DreamingCats/miHoYoJokes.git
 ```
 
 ### 3.pip
 
 需要安装Python
 
-[GenshitJokes·PyPI](https://pypi.org/project/genshitjokes/#description)
+[miHoYoJokes·PyPI](https://pypi.org/project/genshitjokes/#description)
 
 ```
 pip install genshitjokes
@@ -94,7 +94,7 @@ docker pull laosepi/genshitjokes
 
 最后，搞这个合集的目的之一也是想告诉大家：<font color="red">互联网有历史</font>
 
-![](https://github.com/DreamingCats/GenshitJokes/raw/main/images/一定是米哈游干的.gif)
+![](https://github.com/DreamingCats/miHoYoJokes/raw/main/images/一定是米哈游干的.gif)
 
 ### 什么是原批？  Who is a genshit?
 
@@ -159,4 +159,4 @@ NLP监督学习
 
 # 六.Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=DreamingCats/GenshitJokes&type=Date)](https://star-history.com/#DreamingCats/GenshitJokes&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=DreamingCats/miHoYoJokes&type=Date)](https://star-history.com/#DreamingCats/miHoYoJokes&Date)
