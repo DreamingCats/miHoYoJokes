@@ -23,7 +23,7 @@ for filename in os.listdir(here):
 
 
 
-VERSION = '2024.2.1'
+VERSION = '2024.6.14'
 DESCRIPTION = '原批笑话'
 LONG_DESCRIPTION = '有关原神的经典发言'
 
