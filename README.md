@@ -2,7 +2,7 @@
 
 <img src="https://github.com/DreamingCats/miHoYoJokes/raw/main/readme_img/禁止原批.jpg" width="40%" height="40%"> 
 
-| 索引                                                         |                                                              |                                                              |
+| 原批笑话                                                     | Genshit Jokes                                                |                                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [恶意合订本](./genshitjokes/恶意合订本/恶意合订本.md)        | [数一数二的烧鸡](./genshitjokes/数一数二的烧鸡/数一数二的烧鸡.md) |                                                              |
 | [爆杀原批](./genshitjokes/爆杀原批/爆杀原批.md)              | [禁原贴吧列表](./genshitjokes/禁原贴吧列表/禁原贴吧列表.md)  | [原批定律](./genshitjokes/原批定律/原批定律.md)              |
@@ -17,6 +17,24 @@
 | [原批伦理学](./genshitjokes/原批伦理学/原批伦理学.md)        | [原批心理学](./genshitjokes/原批心理学/原批心理学.md)        |                                                              |
 | [原批策划](./genshitjokes/原批策划/原批策划.md)              | [数值膨胀](./genshitjokes/数值膨胀/数值膨胀.md)              |                                                              |
 
+
+
+| 星穹铁道笑话 | Starrail Jokes |      |
+| ------------ | -------------- | ---- |
+|              |                |      |
+|              |                |      |
+
+
+| 绝区零笑话                                          | ZZZ Jokes |      |
+| --------------------------------------------------- | --------- | ---- |
+| [绝区零笑话](./genshitjokes/zzzjokes/绝区零笑话.md) |           |      |
+|                                                     |           |      |
+
+
+| 鸡3笑话 | Chicken 3rd Jokes |      |
+| ------- | ----------------- | ---- |
+|         |                   |      |
+|         |                   |      |
 
 
 # 二.常见问题   Common Problems
@@ -44,7 +62,7 @@
 ### 2.直接下载（推荐）
 ![](https://github.com/DreamingCats/miHoYoJokes/raw/main/images/download.png)
 
-或使用Git：
+或使用Git(含commit log)：
 
 ```
 git clone https://github.com/DreamingCats/miHoYoJokes.git
