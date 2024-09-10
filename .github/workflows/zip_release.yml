@@ -1,11 +1,16 @@
-name: Package Genshit Jokes Folder
+name: Package Mihoyo Jokes Folder
 
 on:
   push:
     branches:
       - main
     paths:
+      - 'readme_img/**'
       - 'genshitjokes/**'
+      - 'chicken3rdjokes/**'
+      - 'starrailjokes/**'
+      - 'zzzjokes/**'
+      - 'civalwar/**'
       - 'README.md'
 
 jobs:
@@ -14,7 +19,7 @@ jobs:
 
     steps:
       - name: Checkout code
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
 
       - name: Setup ZIP
         run: sudo apt-get install zip
@@ -22,10 +27,11 @@ jobs:
       - name: Zip the genshitjokes folder and README.md with date
         run: |
           DATE=$(date +'%Y.%m.%d')
+          echo "DATE=$DATE" >> $GITHUB_ENV
           zip -r "genshitjokes_$DATE.zip" genshitjokes/ README.md
 
       - name: Upload Artifact
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v4
         with:
-          name: genshitjokes-archive-$DATE
-          path: "genshitjokes_$DATE.zip"
+          name: genshitjokes-archive-${{ env.DATE }}
+          path: "genshitjokes_${{ env.DATE }}.zip"
