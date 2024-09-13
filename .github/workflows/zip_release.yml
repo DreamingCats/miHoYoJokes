@@ -28,10 +28,10 @@ jobs:
         run: |
           DATE=$(date +'%Y.%m.%d')
           echo "DATE=$DATE" >> $GITHUB_ENV
-          zip -r "genshitjokes_$DATE.zip" genshitjokes/ README.md
+          zip -r "MihoyoJokes_$DATE.zip" readme_img/ genshitjokes/ chicken3rdjokes/ starrailjokes/ zzzjokes/ civalwar/ README.md
 
       - name: Upload Artifact
         uses: actions/upload-artifact@v4
         with:
-          name: genshitjokes-archive-${{ env.DATE }}
-          path: "genshitjokes_${{ env.DATE }}.zip"
+          name: MihoyoJokes-archive-${{ env.DATE }}
+          path: "MihoyoJokes_${{ env.DATE }}.zip"
