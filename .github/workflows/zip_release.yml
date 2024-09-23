@@ -12,6 +12,8 @@ on:
       - 'zzzjokes/**'
       - 'civalwar/**'
       - 'README.md'
+      - 'LICENSE'
+      - 'LICENSE_CN'
 
 jobs:
   package:
@@ -28,10 +30,10 @@ jobs:
         run: |
           DATE=$(date +'%Y.%m.%d')
           echo "DATE=$DATE" >> $GITHUB_ENV
-          zip -r "MihoyoJokes_$DATE.zip" readme_img/ genshitjokes/ chicken3rdjokes/ starrailjokes/ zzzjokes/ civalwar/ README.md
+          zip -r "miHoYoJokes_$DATE.zip" readme_img/ genshitjokes/ chicken3rdjokes/ starrailjokes/ zzzjokes/ civalwar/ README.md LICENSE LICENSE_CN
 
       - name: Upload Artifact
         uses: actions/upload-artifact@v4
         with:
-          name: MihoyoJokes-archive-${{ env.DATE }}
-          path: "MihoyoJokes_${{ env.DATE }}.zip"
+          name: miHoYoJokes-${{ env.DATE }}
+          path: "miHoYoJokes_${{ env.DATE }}.zip"

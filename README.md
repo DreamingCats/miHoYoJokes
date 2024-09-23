@@ -190,6 +190,13 @@ NLP监督学习
 
 <a href="https://github.com/hiroi-sora/Umi-OCR" target="_blank">hiroi-sora/Umi-OCR</a>
 
-# 七.Star History
+# 七.LICENSE
+
+米氏笑话这个repo使用[WTFPL](http://www.wtfpl.net/),你们想怎么用就怎么用,  
+允许不注明出处的转载及修改,  
+允许盈利~~(这玩意能盈利?)~~  
+看乐子就好😆
+
+# 八.Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=DreamingCats/miHoYoJokes&type=Date)](https://star-history.com/#DreamingCats/miHoYoJokes&Date)
