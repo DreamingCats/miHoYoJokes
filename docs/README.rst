@@ -1,21 +1,40 @@
 # 一.索引   Index
 
-<img src="https://github.com/DreamingCats/miHoYoJokes/raw/main/images/禁止原批.jpg" width="40%" height="40%"> 
+<img src="https://github.com/DreamingCats/miHoYoJokes/raw/main/readme_img/禁止原批.jpg" width="40%" height="40%"> 
 
-| 索引                                                       |                                                      |                                    |
-| ---------------------------------------------------------- | ---------------------------------------------------- | ---------------------------------- |
-| [恶意合订本](./恶意合订本/恶意合订本.md)                   |                                                      |                                    |
-| [爆杀原批](./爆杀原批/爆杀原批.md)                         | [禁原贴吧列表](./禁原贴吧列表/禁原贴吧列表.md)       | [原批定律](./原批定律/原批定律.md) |
-| [引原丁真](./引原丁真/引原丁真.md)                         | [原神联动](./原神联动/原神联动.md)                   |                                    |
-| [原批作文选](./原批作文选.md)                              |                                                      |                                    |
-| [3A之战](./3A之战/3A之战.md)                               | [原批评委](./原批评委/原批评委.md)                   | [三相之力](./三相之力/三相之力.md) |
-| [超能原批大搜索](./超能原批大搜索/超能原批大搜索.md)       | [原批眼科病例](./原批眼科病例/原批眼科病例.md)       |                                    |
-| [米孝子](./米孝子/米孝子.md)                               | [原神使我自豪](./原神使我自豪/原神使我自豪.md)       |                                    |
-| [原批理工科学](./原批理工科学/原批理工科学.md)             |                                                      |                                    |
-| [原批政治经济学](./原批政治经济学/原批政治经济学.md)       | [原批神兔二相性](./原批神兔二相性/原批神兔二相性.md) | [原批法学](./原批法学/原批法学.md) |
-| [原批历史与文化学](./原批历史与文化学/原批历史与文化学.md) | [原批新闻学](./原批新闻学/原批新闻学.md)             |                                    |
-| [策划招聘计划](./策划招聘计划/策划招聘计划.md)             |                                                      |                                    |
+| 原批笑话                                                     | Genshit Jokes                                                |                                                              |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [恶意合订本](./genshitjokes/恶意合订本/恶意合订本.md)        | [数一数二的烧鸡](./genshitjokes/数一数二的烧鸡/数一数二的烧鸡.md) |                                                              |
+| [爆杀原批](./genshitjokes/爆杀原批/爆杀原批.md)              | [禁原贴吧列表](./genshitjokes/禁原贴吧列表/禁原贴吧列表.md)  | [原批定律](./genshitjokes/原批定律/原批定律.md)              |
+| [引原丁真](./genshitjokes/引原丁真/引原丁真.md)              | [原神联动](./genshitjokes/原神联动/原神联动.md)              |                                                              |
+| [原批作文选](./genshitjokes/原批作文选/原批作文选.md)        | [原神与现实](./genshitjokes/原神与现实/原神与现实.md) |                                                              |
+| [3A之战](./genshitjokes/3A之战/3A之战.md)                    | [原批评委](./genshitjokes/原批评委/原批评委.md)              |                                                              |
+| [超能原批大搜索](./genshitjokes/超能原批大搜索/超能原批大搜索.md) | [原批眼科病例](./genshitjokes/原批眼科病例/原批眼科病例.md)  |                                                              |
+| [米孝子](./genshitjokes/米孝子/米孝子.md)                    | [原神使我自豪](./genshitjokes/原神使我自豪/原神使我自豪.md)  | [二刺螈教父](./genshitjokes/二刺螈教父/二刺螈教父.md)        |
+| [原批理工科学](./genshitjokes/原批理工科学/原批理工科学.md)  | [原批医学](./genshitjokes/原批医学/原批医学.md)              |                                                              |
+| [原批政治经济学](./genshitjokes/原批政治经济学/原批政治经济学.md) | [原批神兔二相性](./genshitjokes/原批神兔二相性/原批神兔二相性.md) | [你最好说的是原神](./genshitjokes/你最好说的是原神/你最好说的是原神.md) |
+| [原批历史与文化学](./genshitjokes/原批历史与文化学/原批历史与文化学.md) | [原批新闻学](./genshitjokes/原批新闻学/原批新闻学.md)        | [原批法学](./genshitjokes/原批法学/原批法学.md)              |
+| [原批伦理学](./genshitjokes/原批伦理学/原批伦理学.md)        | [原批心理学](./genshitjokes/原批心理学/原批心理学.md)        |                                                              |
+| [原批策划](./genshitjokes/原批策划/原批策划.md)              | [数值膨胀](./genshitjokes/数值膨胀/数值膨胀.md)              |                                                              |
 
+
+
+| 星穹铁道笑话                                                 | Starrail Jokes |      |
+| ------------------------------------------------------------ | -------------- | ---- |
+| [星穹铁道笑话](./genshitjokes/starrailjokes/星穹铁道笑话.md) |                |      |
+|                                                              |                |      |
+
+
+| 绝区零笑话                                          | ZZZ Jokes |      |
+| --------------------------------------------------- | --------- | ---- |
+| [绝区零笑话](./genshitjokes/zzzjokes/绝区零笑话.md) |           |      |
+|                                                     |           |      |
+
+
+| 鸡3笑话                                              | Chicken 3rd Jokes |      |
+| ---------------------------------------------------- | ----------------- | ---- |
+| [鸡3笑话](./genshitjokes/chicken3rdjokes/鸡3笑话.md) |                   |      |
+|                                                      |                   |      |
 
 
 # 二.常见问题   Common Problems
@@ -29,7 +48,7 @@
 此外，如果需要引用图片，按照以下格式即可：
 
 ```
-![](https://github.com/DreamingCats/miHoYoJokes/raw/main/子目录/图片名称.jpg)
+![](https://github.com/DreamingCats/miHoYoJokes/raw/main/genshitjokes/子目录/图片名称.jpg)
 ```
 
 ## 2.下载
@@ -43,7 +62,7 @@
 ### 2.直接下载（推荐）
 ![](https://github.com/DreamingCats/miHoYoJokes/raw/main/images/download.png)
 
-或使用Git：
+或使用Git(含commit log)：
 
 ```
 git clone https://github.com/DreamingCats/miHoYoJokes.git
@@ -53,14 +72,17 @@ git clone https://github.com/DreamingCats/miHoYoJokes.git
 
 需要安装Python
 
-[miHoYoJokes·PyPI](https://pypi.org/project/genshitjokes/#description)
+<a href="https://pypi.org/project/genshitjokes/#description" target="_blank">miHoYoJokes·PyPI</a>
+
+最大限制为100MB
 
 ```
 pip install genshitjokes
 ```
 
 ### 4.docker
-[laosepi/genshitjokes - Docker Image | Docker Hub](https://hub.docker.com/r/laosepi/genshitjokes)
+
+<a href="https://hub.docker.com/r/laosepi/genshitjokes" target="_blank">laosepi/genshitjokes - Docker Image | Docker Hub</a>
 
 ```
 docker pull laosepi/genshitjokes
@@ -94,7 +116,7 @@ docker pull laosepi/genshitjokes
 
 最后，搞这个合集的目的之一也是想告诉大家：<font color="red">互联网有历史</font>
 
-![](https://github.com/DreamingCats/miHoYoJokes/raw/main/images/一定是米哈游干的.gif)
+![](https://github.com/DreamingCats/miHoYoJokes/raw/main/readme_img/一定是米哈游干的.gif)
 
 ### 什么是原批？  Who is a genshit?
 
@@ -112,7 +134,9 @@ docker pull laosepi/genshitjokes
 
 <a href="https://tieba.baidu.com/f?kw=%E5%8E%9F%E7%A5%9E&ie=utf-8&tab=main" target="_blank">百度原神吧</a>
 
-<a href="" target="_blank"></a>
+<a href="https://www.zhihu.com/search?q=%E5%8E%9F%E7%A5%9E&type=content" target="_blank">米乎</a>
+
+<a href="https://www.douyin.com/search/%E5%8E%9F%E7%A5%9E" target="_blank">抖音</a>
 
 ### 收集来源  Source
 
@@ -129,6 +153,8 @@ docker pull laosepi/genshitjokes
 
 <a href="https://space.bilibili.com/3196602/dynamic" target="_blank">原神玩家集體记忆名錄</a>
 
+#### ③任何地方
+
 # 四.画饼
 
 ## 1.原批数据集
@@ -139,6 +165,8 @@ NLP监督学习
 
 # 五.后记
 
+玩原神玩的，
+
 正确的，直接的，中肯的，完整的，
 立体的，客观的，合理的，明晰的，
 真实的，辩证的，深刻的，通达的，
@@ -148,15 +176,27 @@ NLP监督学习
 明白晓畅的，针砭时弊的，不偏不倚的，恰如其分的，滴水不漏的，
 不容质疑的，切中要害的，一针见血的，淋漓尽致的，深谙事理的，
 真知灼见的，振聋发聩的，微言大义的，金声玉振的，
-透过现象看本质的，知其然而知其所以然的，可供世人仿效的，千古颠扑不破的
-
+透过现象看本质的，知其然而知其所以然的，可供世人仿效的，千古颠扑不破的，
 重要的、紧迫的、自觉的、主动的、坚定的、
 全局的、前瞻的、积极的、创造的、长期的、
 复杂的、艰巨的、敏锐的、有效的、法制的、
 规范的、持续的、集约的、正常的、有序的、
 智能的、优质的、科学的、年轻的、专业的、
-信息的、数字的、标准的、精细的
+信息的、数字的、标准的、精细的...
 
-# 六.Star History
+# 六.特别鸣谢
+
+<a href="https://github.com/microsoft/vscode" target="_blank">microsoft/vscode</a>
+
+<a href="https://github.com/hiroi-sora/Umi-OCR" target="_blank">hiroi-sora/Umi-OCR</a>
+
+# 七.LICENSE
+
+米氏笑话这个repo使用[WTFPL](http://www.wtfpl.net/),你们想怎么用就怎么用,  
+允许不注明出处的转载及修改,  
+允许盈利~~(这玩意能盈利?)~~  
+看乐子就好😆
+
+# 八.Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=DreamingCats/miHoYoJokes&type=Date)](https://star-history.com/#DreamingCats/miHoYoJokes&Date)

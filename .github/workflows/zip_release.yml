@@ -26,14 +26,14 @@ jobs:
       - name: Setup ZIP
         run: sudo apt-get install zip
 
-      - name: Zip the genshitjokes folder and README.md with date
+      - name: Zip the necessary folders and files with date
         run: |
           DATE=$(date +'%Y.%m.%d')
           echo "DATE=$DATE" >> $GITHUB_ENV
-          zip -r "miHoYoJokes_$DATE.zip" readme_img/ genshitjokes/ chicken3rdjokes/ starrailjokes/ zzzjokes/ civalwar/ README.md LICENSE LICENSE_CN
+          zip -r "miHoYoJokes-$DATE.zip" readme_img genshitjokes chicken3rdjokes starrailjokes zzzjokes civalwar README.md LICENSE LICENSE_CN
 
       - name: Upload Artifact
         uses: actions/upload-artifact@v4
         with:
           name: miHoYoJokes-${{ env.DATE }}
-          path: "miHoYoJokes_${{ env.DATE }}.zip"
+          path: "miHoYoJokes-${{ env.DATE }}.zip"

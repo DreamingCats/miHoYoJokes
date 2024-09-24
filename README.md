@@ -7,7 +7,7 @@
 | [恶意合订本](./genshitjokes/恶意合订本/恶意合订本.md)        | [数一数二的烧鸡](./genshitjokes/数一数二的烧鸡/数一数二的烧鸡.md) |                                                              |
 | [爆杀原批](./genshitjokes/爆杀原批/爆杀原批.md)              | [禁原贴吧列表](./genshitjokes/禁原贴吧列表/禁原贴吧列表.md)  | [原批定律](./genshitjokes/原批定律/原批定律.md)              |
 | [引原丁真](./genshitjokes/引原丁真/引原丁真.md)              | [原神联动](./genshitjokes/原神联动/原神联动.md)              |                                                              |
-| [原批作文选](./genshitjokes/原批作文选/原批作文选.md)        | [原批的奇妙比喻](./genshitjokes/原批的奇妙比喻/原批的奇妙比喻.md) |                                                              |
+| [原批作文选](./genshitjokes/原批作文选/原批作文选.md)        | [原神与现实](./genshitjokes/原神与现实/原神与现实.md) |                                                              |
 | [3A之战](./genshitjokes/3A之战/3A之战.md)                    | [原批评委](./genshitjokes/原批评委/原批评委.md)              |                                                              |
 | [超能原批大搜索](./genshitjokes/超能原批大搜索/超能原批大搜索.md) | [原批眼科病例](./genshitjokes/原批眼科病例/原批眼科病例.md)  |                                                              |
 | [米孝子](./genshitjokes/米孝子/米孝子.md)                    | [原神使我自豪](./genshitjokes/原神使我自豪/原神使我自豪.md)  | [二刺螈教父](./genshitjokes/二刺螈教父/二刺螈教父.md)        |
