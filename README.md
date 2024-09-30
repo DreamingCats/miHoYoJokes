@@ -102,15 +102,18 @@ docker pull laosepi/genshitjokes
 本项目的其他名称：
 原批笑话 Genshit Jokes
 原批圣经 Genshit Bible
-原氏物语 The Tale of Genshit
+原氏物语 The Tale Of Genshit
 
 原批笑话和鸡3笑话收集，采用Markdown语法编写，排名不分先后，不定期更新
 
 欢迎星星和叉子
 
-收集于网络，欢迎转载，如有侵权可联系删除
+图片内容仅做收集，并不代表本人[@DreamingCats](https://github.com/DreamingCats)的观点和立场。
 
-图片内容仅做收集，并不代表本人@DreamingCats的观点和立场。
+米氏笑话这个repo收集于网络,使用[WTFPL](http://www.wtfpl.net/),你们想怎么用就怎么用,  
+允许不注明出处的转载及修改,如有侵权可联系删除。  
+允许盈利~~(这玩意能盈利?)~~  
+看乐子就好😆
 
 有些图片画质不如原神，也很难保证不是反串，或者PS/F12，看个乐呵就行
 
@@ -165,6 +168,7 @@ NLP监督学习
 
 # 五.后记
 
+```
 玩原神玩的，
 
 正确的，直接的，中肯的，完整的，
@@ -183,6 +187,8 @@ NLP监督学习
 规范的、持续的、集约的、正常的、有序的、
 智能的、优质的、科学的、年轻的、专业的、
 信息的、数字的、标准的、精细的...
+```
+
 
 # 六.特别鸣谢
 
@@ -190,13 +196,12 @@ NLP监督学习
 
 <a href="https://github.com/hiroi-sora/Umi-OCR" target="_blank">hiroi-sora/Umi-OCR</a>
 
-# 七.LICENSE
 
-米氏笑话这个repo使用[WTFPL](http://www.wtfpl.net/),你们想怎么用就怎么用,  
-允许不注明出处的转载及修改,  
-允许盈利~~(这玩意能盈利?)~~  
-看乐子就好😆
+# 七.COUNT
 
-# 八.Star History
+<a href="https://info.flagcounter.com/2jcD"><img src="https://s11.flagcounter.com/count2/2jcD/bg_FFFFFF/txt_000000/border_CCCCCC/columns_3/maxflags_12/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=DreamingCats.miHoYoJokes)
 
 [![Star History Chart](https://api.star-history.com/svg?repos=DreamingCats/miHoYoJokes&type=Date)](https://star-history.com/#DreamingCats/miHoYoJokes&Date)
+
