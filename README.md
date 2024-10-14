@@ -203,5 +203,7 @@ NLP监督学习
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=DreamingCats.miHoYoJokes)
 
+![downlooads](https://img.shields.io/github/downloads/dreamingcats/mihoyojokes/total?color=66ccff)
+
 [![Star History Chart](https://api.star-history.com/svg?repos=DreamingCats/miHoYoJokes&type=Date)](https://star-history.com/#DreamingCats/miHoYoJokes&Date)
 
